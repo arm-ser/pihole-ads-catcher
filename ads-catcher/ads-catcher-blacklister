@@ -12,7 +12,7 @@
 # Log, settings and temporary files
 ADSC_TMPFILE=/tmp/ads-catcher.tmp
 #ADSC_SETTINGS=/etc/ads-catcher.cfg
-PIHOLE_LOGFILE=/var/log/pihole.log
+PIHOLE_LOGFILE=/var/lib/docker/volumes/dns_var_pihole_log/_data/pihole.log
 PIHOLE_BLACKLIST_FILE=/etc/pihole/blacklist.txt
 
 
